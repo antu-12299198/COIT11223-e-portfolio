@@ -8,7 +8,7 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 ## Screenshot
 
-![Jerry Kaplan Interview](images/artifact1.png)
+![Jerry Kaplan Interview](images/Artfact1223.png)
 
 ---
 
