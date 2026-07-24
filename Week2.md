@@ -20,8 +20,7 @@ https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 ## Summary of the Artefact
 
-This YouTube interview features artificial intelligence expert Jerry Kaplan discussing why generative AI is considered one of the most revolutionary technologies of recent years. Kaplan explains that modern AI systems can generate text, images, and code by learning patterns from enormous amounts of data rather than thinking like humans. He also describes the rapid development of large language models such as ChatGPT and explains both the opportunities and challenges they create. The interview highlights how generative AI is transforming industries including education, healthcare, software development, and business while also raising concerns about misinformation, bias, privacy, and responsible use. Overall, the video provides a balanced explanation of how AI works, why it is becoming increasingly important, and why society must carefully manage its development.
-
+This YouTube interview features AI expert Jerry Kaplan, who explains why generative artificial intelligence is considered one of the most significant technological developments of recent years. He discusses how generative AI systems, such as ChatGPT, are trained on large amounts of data to recognise patterns and generate human-like responses rather than truly understanding information like humans do. Kaplan also explores how this technology is changing industries including education, healthcare, software development, and business by improving productivity and supporting decision-making. At the same time, he highlights important challenges such as misinformation, bias, privacy concerns, and the need for responsible AI governance. Overall, the interview provides a clear and balanced explanation of how generative AI works, its growing impact on society, and why both individuals and organisations should use it ethically and responsibly.
 ---
 
 ## Justification on Why I Chose the Artefact
