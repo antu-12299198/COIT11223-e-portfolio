@@ -83,6 +83,7 @@ This report was published by the World Health Organization (WHO) and explains ho
 I chose this report because I wanted to learn more about how artificial intelligence is improving the healthcare sector and why it is important to use this technology responsibly. Since the report was published by the World Health Organization, I trusted it as a reliable source that provides evidence-based information. After reading it, I gained a better understanding of how AI can support doctors and healthcare professionals by assisting with disease diagnosis, improving patient care, and speeding up medical research. At the same time, the report explained that AI should be used carefully to protect patient privacy, ensure data security, and reduce the risk of bias in healthcare decisions.
 
 I also selected this artefact because it closely relates to the topics discussed in this week's lecture, particularly AI ethics, governance, accountability, and responsible AI. The report reinforced my understanding that AI should be used to support healthcare professionals rather than replace their knowledge and experience. It also highlighted the importance of creating clear regulations and ethical guidelines so that AI technologies remain safe, transparent, and fair for everyone. I believe this artefact is meaningful evidence of my learning because it demonstrates how the concepts studied in class are being applied to improve healthcare while ensuring that patients' rights, safety, and wellbeing remain the highest priority.
+
 ---
 
 ### Harvard Reference
