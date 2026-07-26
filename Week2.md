@@ -34,7 +34,7 @@ I also selected this artefact because it connects closely with the unit's discus
 
 ## Screenshot
 
-![UN AI Report](images/artifact2.png)
+![UN AI Report](images/artefact2.png)
 
 ---
 
