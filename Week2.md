@@ -8,7 +8,7 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 
 ## Screenshot
 
-![Jerry Kaplan Interview](images/Artfact1223.png)
+<img src="images/Artfact1223.png" width="500">
 
 ---
 
@@ -34,7 +34,7 @@ I also selected this artefact because it connects closely with the unit's discus
 
 ## Screenshot
 
-![UN AI Report](images/artefact2.png)
+<img src="images/artefact2.png" width="500">
 
 ---
 
@@ -62,7 +62,7 @@ I also selected this artefact because it closely relates to the topics covered i
 
 ## Screenshot
 
-![WHO AI Traditional Medicine Report](images/artefact3.png)
+<img src="images/artefact3.png" width="500">
 
 ---
 
@@ -90,7 +90,7 @@ I also selected this artefact because it relates closely to the topics discussed
 
 ## Week 2 workshop(Thrusday 23/07/2026) selfie with my tutor Umapathy Venugopal sir 
 
-![Workshop Selfie](images/WEEK2.jpeg)
+<img src="images/WEEK2.jpeg" width="500">
 
 ---
 
