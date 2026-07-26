@@ -90,7 +90,7 @@ I also selected this artefact because it relates closely to the topics discussed
 
 ## Workshop Evidence
 
-![Workshop Selfie](images/artifact4.jpg)
+![Workshop Selfie](images/WEEK2.jpeg)
 
 ---
 
