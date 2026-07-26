@@ -88,7 +88,7 @@ I also selected this artefact because it relates closely to the topics discussed
 
 # Artefact 4: Workshop 2 – Artificial Intelligence Discussion and Activities
 
-## Workshop Evidence
+## Week 2 workshop(Thrusday 23/07/2026) selfie with my tutor Umapathy Venugopal sir 
 
 ![Workshop Selfie](images/WEEK2.jpeg)
 
@@ -100,25 +100,19 @@ I also selected this artefact because it relates closely to the topics discussed
 
 ---
 
-## Summary of the Artefact
+## Summary of the Artefact: My Personal Reflection
 
-This artefact is based on my participation in the Week 2 workshop, where we explored the development and impact of artificial intelligence on society. During the workshop, we discussed the history of AI, including its evolution from symbolic AI to machine learning and modern generative AI. We also explored different AI technologies such as robotics, computer vision, machine learning, speech recognition, and natural language processing. One of the key activities involved watching Jerry Kaplan's interview on generative AI and discussing how AI is transforming industries while creating ethical challenges. The workshop also introduced Australia's AI Ethics Principles and the importance of AI governance, accountability, fairness, transparency, and responsible use of artificial intelligence. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+Participating in the Week 2 workshop helped me develop a much better understanding of artificial intelligence and its role in today's society. Before the workshop, I mainly thought of AI as tools like ChatGPT that answer questions or generate content. However, through the class discussions and activities, I learned that AI is much broader than I had imagined. I discovered how AI has evolved over time, from symbolic AI to machine learning and today's generative AI, and how technologies such as robotics, computer vision, speech recognition, and natural language processing are used in many different industries.One part of the workshop that I found particularly interesting was watching Jerry Kaplan's interview on generative AI. His explanation helped me understand both the opportunities and challenges of AI in a simple way. The discussions about AI ethics and Australia's AI Ethics Principles also made me realise that AI should not only focus on innovation but also on fairness, transparency, accountability, and protecting people's privacy. Overall, this workshop changed the way I think about artificial intelligence. It showed me that as future ICT professionals, we have a responsibility to develop and use AI ethically so that it benefits society while reducing potential risks.
 
 ---
 
 ## Justification on Why I Chose the Artefact
 
-I chose this workshop as my fourth artefact because it demonstrates my active participation in the unit and helped strengthen my understanding of artificial intelligence beyond what I learned from online resources. The discussions and activities gave me a clearer understanding of how AI has evolved over time and how it is being applied in different industries today. Watching the Jerry Kaplan interview and discussing real-world examples with my classmates made the concepts easier to understand and encouraged me to think more critically about the opportunities and risks associated with AI.
+I chose this workshop as my fourth artefact because it gave me the opportunity to actively participate in discussions and apply the concepts I learned during the lecture. The workshop activities helped me understand how artificial intelligence has developed over time and how it is being used in different industries today. Discussing real-world examples with my classmates and watching the Jerry Kaplan interview made the topics much easier to understand. It also encouraged me to think more carefully about both the advantages of AI and the ethical challenges that come with using this technology.
 
-This workshop also helped me connect theoretical concepts with practical issues affecting society. I learned that while AI has the potential to improve healthcare, education, business, and many other fields, it also raises important ethical concerns related to privacy, bias, accountability, and transparency. The workshop reinforced the importance of responsible AI governance and showed me that ICT professionals have a responsibility to develop and use AI in ways that benefit society while minimising potential risks. I believe this artefact is meaningful evidence of my learning because it reflects both my participation in the workshop and my understanding of the ethical and social impacts of artificial intelligence. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+This workshop also helped me connect the theory covered in class with real-world issues affecting society. I learned that although artificial intelligence can improve areas such as healthcare, education, and business, it also raises important concerns about privacy, bias, transparency, and accountability. But the interesting part was the tricky question by our tutor although which help to clear many concept about mind, intelligence and human thought process. The workshop reinforced the importance of responsible AI governance and showed me that ICT professionals have a responsibility to develop and use AI in ethical ways that benefit society while reducing potential risks. I believe this artefact is meaningful evidence of my learning because it reflects both my active participation in the workshop and my growing understanding of the ethical and social impacts of artificial intelligence. At the very end of the class I took the selfie with our tutor.
 
 ---
-
-### Harvard Reference
-
-Central Queensland University 2026, *COIT11223 ICT Ethics and Governance in Society: Week 2 Workshop – Artificial Intelligence*, workshop presentation, Central Queensland University, viewed 26 July 2026.
-
-
 
 ### Harvard Reference
 
@@ -127,3 +121,5 @@ Kaplan, J. 2024, *Why Generative AI is Truly Revolutionary: An Interview with Je
 United Nations 2026, *Preliminary Report of the Independent International Scientific Panel on Artificial Intelligence: Evidence-based Assessment of Opportunities, Risks and Impacts of AI – Executive Summary*, United Nations, viewed **26 July 2026**, <https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-07/en_executive_summary.pdf>.
 
 World Health Organization 2025, *Mapping the application of artificial intelligence in traditional medicine*, World Health Organization, viewed 26 July 2026, <https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content>.
+
+Central Queensland University 2026, *COIT11223 ICT Ethics and Governance in Society: Week 2 Workshop – Artificial Intelligence*, workshop presentation, Central Queensland University.
