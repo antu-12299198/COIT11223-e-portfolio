@@ -62,7 +62,7 @@ I also selected this artefact because it closely relates to the topics covered i
 
 ## Screenshot
 
-![WHO AI Traditional Medicine Report](images/artifact3.png)
+![WHO AI Traditional Medicine Report](images/artefact3.png)
 
 ---
 
