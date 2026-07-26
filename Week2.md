@@ -62,7 +62,7 @@ I also selected this artefact because it closely relates to the topics covered i
 
 ## Screenshot
 
-![WHO AI Health Report](images/artifact3.png)
+![WHO AI Health Report](images/artefact3.png)
 
 ---
 
