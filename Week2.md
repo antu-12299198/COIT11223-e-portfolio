@@ -58,11 +58,38 @@ I also selected this artefact because it closely relates to the topics covered i
 
 ---
 
+# Artefact 3: Ethics and Governance of Artificial Intelligence for Health: Guidance on Large Multi-Modal Models
 
+## Screenshot
+
+![WHO AI Health Report](images/artifact3.png)
+
+---
+
+## Link
+
+https://iris.who.int/server/api/core/bitstreams/e9e62c65-6045-481e-bd04-20e206bc5039/content
+
+---
+
+## Summary of the Artefact
+
+This report was published by the World Health Organization (WHO) and explains how artificial intelligence can be used responsibly in the healthcare sector. It focuses on large multi-modal AI models that can process different types of information, including medical images, patient records, text, and audio, to support healthcare services. The report describes how AI can improve disease diagnosis, assist healthcare professionals in making clinical decisions, speed up medical research, and increase the efficiency of healthcare systems. At the same time, it discusses important challenges such as protecting patient privacy, ensuring data security, reducing bias in AI systems, and maintaining transparency when AI is involved in healthcare decisions. The report emphasises that AI should be used to support healthcare professionals rather than replace them and highlights the need for strong ethical guidelines and effective governance to ensure AI is used safely, fairly, and in the best interests of patients and society.
+
+---
+
+## Justification on Why I Chose the Artefact
+
+I chose this report because I wanted to learn more about how artificial intelligence is improving the healthcare sector and why it is important to use this technology responsibly. Since the report was published by the World Health Organization, I trusted it as a reliable source that provides evidence-based information. After reading it, I gained a better understanding of how AI can support doctors and healthcare professionals by assisting with disease diagnosis, improving patient care, and speeding up medical research. At the same time, the report explained that AI should be used carefully to protect patient privacy, ensure data security, and reduce the risk of bias in healthcare decisions.
+
+I also selected this artefact because it closely relates to the topics discussed in this week's lecture, particularly AI ethics, governance, accountability, and responsible AI. The report reinforced my understanding that AI should be used to support healthcare professionals rather than replace their knowledge and experience. It also highlighted the importance of creating clear regulations and ethical guidelines so that AI technologies remain safe, transparent, and fair for everyone. I believe this artefact is meaningful evidence of my learning because it demonstrates how the concepts studied in class are being applied to improve healthcare while ensuring that patients' rights, safety, and wellbeing remain the highest priority.
+---
 
 ### Harvard Reference
 
 Kaplan, J. 2024, *Why Generative AI is Truly Revolutionary: An Interview with Jerry Kaplan*, YouTube video, viewed **(insert access date)**, <https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s>.
 
 United Nations 2026, *Preliminary Report of the Independent International Scientific Panel on Artificial Intelligence: Evidence-based Assessment of Opportunities, Risks and Impacts of AI – Executive Summary*, United Nations, viewed **26 July 2026**, <https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-07/en_executive_summary.pdf>.
+
+World Health Organization 2025, *Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models*, World Health Organization, viewed 26 July 2026, <https://iris.who.int/server/api/core/bitstreams/e9e62c65-6045-481e-bd04-20e206bc5039/content>.
 
