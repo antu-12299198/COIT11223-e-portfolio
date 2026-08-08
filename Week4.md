@@ -57,9 +57,10 @@ This video explores the ethical challenges created by the rapid growth of genera
 I chose this artefact because it improved my understanding of AI ethics. Before watching the video, I mainly viewed AI as a useful productivity tool. Afterwards, I realised developers, governments, and organisations share responsibility for ensuring AI is fair, transparent, and accountable. This artefact reinforced the importance of ethical decision-making in ICT and showed that responsible AI helps protect society and build public trust (Leslie 2025).
 
 # Artefact 4: Workshop Reflection – Ethics and Ethical Theories
-## Week 4 workshop(Thrusday 06/08/2026) picture of my tutor Umapathy Venugopal sir 
+## Week 4 workshop(Thrusday 06/08/2026) picture of my tutor Umapathy Venugopal sir and my selfie
 
-<img src="images/WEEK4.jpeg" width="500">
+<img src="images/WEEK4.1.jpeg" width="500">
+<img src="images/WEEK4.2.jpeg" width="500">
 
 ## Workshop Topic
 **Week 4 – Ethical Theories**
