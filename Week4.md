@@ -38,9 +38,34 @@ This review paper explains how ethical hacking strengthens cybersecurity by iden
 ## Justification on the Artefact
 I chose this artefact because it changed my understanding of hacking. Before reading it, I mainly associated hacking with cybercrime. Afterwards, I realised ethical hackers help organisations identify security weaknesses before attackers exploit them. This artefact showed me that ICT professionals have an ethical responsibility to protect systems, follow legal requirements, and safeguard users' information. It reinforced the importance of ethical behaviour in creating a safer digital society (Asif et al., 2024, pp. 3–5).
 
+# Artefact 3: The Ethics of AI: Who Controls the Future? 
+## Screenshot
+
+<img src="images/Screenshot week4 artefact3.png" width="500">
+
+---
+## Link 
+
+https://www.ie.edu/insights/videos/the-ethics-of-ai-who-controls-the-future/
+
+---
+
+## Summary of the Artefact
+This video explores the ethical challenges created by the rapid growth of generative artificial intelligence. David Leslie explains that AI can improve productivity and innovation but also creates risks such as misinformation, bias, privacy concerns, and misuse. He argues that responsible AI requires transparency, accountability, and effective governance to ensure these technologies benefit society while reducing potential harm. The discussion highlights the importance of balancing innovation with ethical responsibility in ICT (Leslie 2025).
+
+## Justification on the Artefact
+I chose this artefact because it improved my understanding of AI ethics. Before watching the video, I mainly viewed AI as a useful productivity tool. Afterwards, I realised developers, governments, and organisations share responsibility for ensuring AI is fair, transparent, and accountable. This artefact reinforced the importance of ethical decision-making in ICT and showed that responsible AI helps protect society and build public trust (Leslie 2025).
+
+# Artefact 4:
+
+
 
 ## Reference (CQU Harvard)
 Humphreys, D, Koay, A, Desmond, D & Mealy, E 2024, 'AI hype as a cyber security risk: the moral responsibility of implementing generative AI in business', AI and Ethics, vol. 4, pp. 791–804, viewed 9 August 2026, https://doi.org/10.1007/s43681-024-00443-4.
 
 Asif, F, Sohail, F, Butt, ZH, Nasir, F & Asgar, N 2024, Ethical hacking and its role in cybersecurity: A comprehensive review, arXiv, viewed 9 August 2026, https://arxiv.org/abs/2408.16033
+
+Leslie, D 2025, The ethics of AI: Who controls the future?, video, IE Insights, 13 March, viewed 9 August 2026, https://www.ie.edu/insights/videos/the-ethics-of-ai-who-controls-the-future/.
+
+
 
