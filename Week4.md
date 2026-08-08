@@ -1,5 +1,5 @@
 # Week 4: e-portfolio 2 - Ethical Theory
-A collection of artefacts that demonstrate what I have learnt about Artificial Intelligence this week.
+A collection of artefacts that demonstrate what I have learnt about Ethics and Ethical Theories this week.
 
 ---
 # Artefact 1: AI Hype as a Cyber Security Risk: The Moral Responsibility of Implementing Generative AI in Business
