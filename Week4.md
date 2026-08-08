@@ -5,7 +5,7 @@ A collection of artefacts that demonstrate what I have learnt about Artificial I
 # Artefact 1: AI Hype as a Cyber Security Risk: The Moral Responsibility of Implementing Generative AI in Business
 ## Screenshot
 
-<img src="images/Artfact.png" width="500">
+<img src="images/Screenshot week4 artefact1.png" width="500">
 
 ---
 ## Link
