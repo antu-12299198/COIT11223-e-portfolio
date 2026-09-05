@@ -5,7 +5,7 @@ A collection of artefacts that demonstrate what I have learnt about Intellectual
 # Artefact 1: Generative AI and Intellectual Property
 ## Screenshot
 
-<img src="images/Screenshot week7 artefact1.png" width="500">
+<img src="images/Screenshot week7 artefact1.png" width="500" height="500">
 
 ---
 ## Link
@@ -22,7 +22,7 @@ I chose this artefact because it helped me understand that using generative AI i
 # Artefact 2: Internet Piracy and Book Sales
 ## Screenshot
 
-<img src="images/Screenshot week7 artefact2.png" width="500">
+<img src="images/Screenshot week7 artefact2.png" width="500" height="500">
 
 ---
 ## Link
@@ -40,7 +40,7 @@ I chose this artefact because it helped me understand the real impact of digital
 # Artefact 3: Intellectual Property and Innovation
 ## Screenshot
 
-<img src="images/Screenshot week7 artefact3.png" width="500">
+<img src="images/Screenshot week7 artefact3.png" width="500" height="500">
 
 ---
 ## Link
