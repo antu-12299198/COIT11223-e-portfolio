@@ -58,7 +58,7 @@ I chose this video because it helped me understand why intellectual property is 
 # Artefact 4: Week 7 Workshop: The Monkey Selfie Copyright Dispute
 ## Week 7 workshop(Thrusday 03/09/2026) selfie with my tutor Umapathy Venugopal sir and classmates
 
-<img src="images/" width="500">
+<img src="images/WEEK7.jpeg" width="500">
 
 ---
 
