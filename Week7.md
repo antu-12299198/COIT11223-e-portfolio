@@ -56,7 +56,7 @@ This WIPO video explains how intellectual property helps protect the ideas and c
 I chose this video because it helped me understand why intellectual property is important beyond simply protecting ownership. Before watching it, I mainly thought IP was about stopping people from copying someone else's work. Afterwards, I realised that protecting intellectual property also encourages creativity and gives creators the opportunity to benefit from their effort. The discussion about AI was particularly interesting because it showed me that technology is changing how we think about creators and ownership. This made me realise that ICT professionals should respect intellectual property while supporting new technology and innovation (WIPO 2025).
 
 # Artefact 4: Week 7 Workshop: The Monkey Selfie Copyright Dispute
-## Screenshot
+## Week 7 workshop(Thrusday 03/09/2026) selfie with my tutor Umapathy Venugopal sir and classmates
 
 <img src="images/" width="500">
 
