@@ -54,7 +54,7 @@ I chose this artefact because it is a current Australian example of how governme
 # Artefact 4: Week 9 Workshop: Ethical Perspectives on Censorship
 ## Week 7 workshop(Thrusday 17/09/2026) selfie with my tutor Umapathy Venugopal sir and classmates
 
-<img src="images/Week9.jpeg" width="500">
+<img src="images/Week 9.jpeg" width="500">
 
 ---
 
