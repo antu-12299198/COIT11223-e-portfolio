@@ -52,7 +52,7 @@ This eSafety Commissioner resource explains Australia’s minimum-age rules for 
 I chose this artefact because it is a current Australian example of how governments regulate access to online platforms. I found it interesting because there are arguments on both sides. The policy is designed to protect younger users from possible online harms, but at the same time, it limits their ability to have accounts on certain social media platforms. This helped me better understand the ethical question discussed in Week 9 about where the line should be between protecting people online and restricting their freedom. I learned that censorship and internet regulation are not always simple issues. Governments and ICT professionals need to think carefully about safety, individual rights, whether the rules actually work, and any unexpected consequences they may create.
 
 # Artefact 4: Week 9 Workshop: Ethical Perspectives on Censorship
-## Week 7 workshop(Thrusday 17/09/2026) selfie with my tutor Umapathy Venugopal sir and classmates
+## Week 9 workshop(Thrusday 17/09/2026) selfie with my tutor Umapathy Venugopal sir and classmates
 
 <img src="images/Week 9.jpeg" width="500">
 
