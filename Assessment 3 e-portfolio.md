@@ -39,7 +39,7 @@ I chose this artefact because it helped me understand the benefits and risks of 
 # Artefact 3: Human Rights and Automated Decision-Making in Government
 ## Screenshot
 
-<img src="images/Screenshot Assessment3 artefact3.png" width="500" height="500">
+<img src="images/Screenshot Assessment3 artifact3.png" width="500" height="500">
 
 ---
 ## Link
