@@ -3,7 +3,9 @@
 - Student Name: ANTU SHIL
 - Student ID: 12299198
 - Campus: Sydney
+- Unit Coordinator: Gitte Galea
 - Tutor: Umapathy Venugopal
+
 
   ## ASSESSMENT 2 Weekly e-portfolio
   1. [Week 2: e-portfolio 1 - Artificial Intelligence](./Week2.md)
