@@ -125,8 +125,9 @@ Services Australia 2025, Automation and artificial intelligence strategy 2025–
 https://www.servicesaustralia.gov.au/sites/default/files/2025-05/automation-and-ai-strategy-2025-27.pdf
 
 ## CQU Harvard References for Question 1 video 
-Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 13 October 2026, 
+Australian Computer Society (ACS) 2014, ACS code of professional conduct, version 2.1, Australian Computer Society, viewed 13 October 2026,
+https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf
 
-Quinn, MJ 2020, *Ethics for the Information Age*, 8th edn, Pearson, United States.
+Quinn, MJ 2020, Ethics for the Information Age, 8th edn, Pearson, United States.
 
 
