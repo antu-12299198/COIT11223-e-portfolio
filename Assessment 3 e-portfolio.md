@@ -1,4 +1,4 @@
-# Assessment 3 e-portfolio – Intellectual Property Automated Decision Making (ADM)
+# Assessment 3 e-portfolio – Automated Decision Making (ADM)
 A collection of artefacts that demonstrate what I have learnt about Automated Decision Making (ADM)
 
 ---
