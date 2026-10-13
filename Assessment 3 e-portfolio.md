@@ -70,6 +70,22 @@ This ABC News video reports that Robodebt victims will receive a further $475 mi
 ## Justification on the Artefact
 I chose this video because it shows how automated decision-making can negatively affect people's lives. Before learning about Robodebt, I mainly thought government automation improved efficiency. Now I understand that incorrect automated decisions can cause financial and emotional harm. This connects with Kantian ethics because people deserve dignity and fair treatment. As a future ICT professional, I believe automated systems must be properly tested and monitored.
 
+# Artefact 5: Australia's Government Asked to Back Away from Heavy-Handed AI Regulation 
+## Screenshot
+
+<img src="images/Screenshot Assessment3 artifact5.png" width="500" height="500">
+
+---
+## Link
+https://www.abc.net.au/news/programs/the-business/2025-08-06/australias-government-asked-to-back-away-from/105621766
+
+---
+
+## Summary of the Artefact
+This ABC News video discusses concerns about AI regulation in Australia. Former Human Rights Commissioner Ed Santow explains why governments should not rely only on technology companies to protect people from AI-related harm. He raises concerns about whether companies will prioritise public safety when there is no financial benefit. The discussion highlights the importance of government responsibility and appropriate safeguards (Aiken 2025).
+
+## Justification on the Artefact
+I chose this video because it helped me understand why government oversight is important when AI influences decisions. Before watching it, I thought technology companies could manage most risks themselves. Now I realise that public protection also requires clear rules and accountability. This connects with Rule Utilitarianism because consistent regulations can help protect society. As a future ICT professional, I believe fairness and safety should come before efficiency.
 
 
 
@@ -81,6 +97,9 @@ Services Australia 2025, Automation and artificial intelligence strategy 2025–
 Australian Human Rights Commission 2025, Use of automated decision-making by government, submission to the Attorney-General's Department, 15 January, viewed 13 October 2026, .
 
 ABC News (Australia) 2025, Robodebt victims to get further $475m in compensation, YouTube video, viewed 13 October 2026, .
+
+Aiken, K 2025, 'Australia's government asked to back away from heavy-handed AI regulation', The Business, ABC News, 6 August, video, viewed 13 October 2026, .
+
 
 
 
