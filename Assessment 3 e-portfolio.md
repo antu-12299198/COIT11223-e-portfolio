@@ -71,21 +71,22 @@ This ABC News video discusses concerns about AI regulation in Australia. Former 
 ## Justification on the Artefact
 I chose this video because it helped me understand why government oversight is important when AI influences decisions. Before watching it, I thought technology companies could manage most risks themselves. Now I realise that public protection also requires clear rules and accountability. This connects with Rule Utilitarianism because consistent regulations can help protect society. As a future ICT professional, I believe fairness and safety should come before efficiency.
 
-# Artefact 6: 
+# Artefact 5: Algorithmic Transparency in the United Kingdom
 ## Screenshot
 
-<img src="images/Screenshot Assessment3 artifact6.png" width="500" height="500">
+<img src="images/Screenshot Assessment3 artifact5.png" width="500" height="500">
 
 ---
 ## Link
-
+https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
 
 ---
 
 ## Summary of the Artefact
+This UK Government guidance explains how government organisations should be open about their use of algorithms. It introduces the Algorithmic Transparency Recording Standard, which requires certain public organisations to share information about automated tools that influence decisions affecting people. The main purpose is to help the public understand how these systems are used and make government decisions more transparent and accountable (Government Digital Service 2025).
 
 ## Justification on the Artefact
-
+I chose this artefact because it helped me understand why transparency is important in automated decision-making. I learned that even when an automated system works correctly, people should still know how decisions are made. This connects with Kantian ethics because everyone deserves honesty, fairness and respect. As a future ICT professional, I believe government systems should be clearly explained so people can trust them and question decisions when necessary.
 
 
 ## CQU Harvard References
@@ -95,9 +96,9 @@ Services Australia 2025, Automation and artificial intelligence strategy 2025–
 
 Australian Human Rights Commission 2025, Use of automated decision-making by government, submission to the Attorney-General's Department, 15 January, viewed 13 October 2026, .
 
-ABC News (Australia) 2025, Robodebt victims to get further $475m in compensation, YouTube video, viewed 13 October 2026, .
-
 Aiken, K 2025, 'Australia's government asked to back away from heavy-handed AI regulation', The Business, ABC News, 6 August, video, viewed 13 October 2026, .
+
+Government Digital Service 2025, Algorithmic transparency recording standard: guidance for public sector bodies, UK Government, viewed 13 October 2026, .
 
 
 
