@@ -5,7 +5,7 @@ A collection of artefacts that demonstrate what I have learnt about Automated De
 # Artefact 1: Automated Decision-Making Reform in Australian Government
 ## Screenshot
 
-<img src="images/Screenshot Assessment3 artefact1.png" width="500" height="500">
+<img src="images/Screenshot Assessment3 artifact1.png" width="500" height="500">
 
 ---
 ## Link
