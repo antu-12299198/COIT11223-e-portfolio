@@ -12,4 +12,4 @@
   4. [Week 9: e-portfolio 4 – Censorship](./Week9.md)  
 
 ## ASSESSMENT 3 
-
+[E-Portfolio 5 – Automated Decision-Making (ADM) in Government Systems](./Assessment 3 e-portfolio.md).
