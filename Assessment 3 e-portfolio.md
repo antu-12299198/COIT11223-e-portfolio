@@ -2,10 +2,10 @@
 A collection of artefacts that demonstrate what I have learnt about Automated Decision Making (ADM)
 
 ---
-# Artefact 1: Automated Decision-Making Reform in Australian Government
+# Artefact 3: Automated Decision-Making Reform in Australian Government
 ## Screenshot
 
-<img src="images/Screenshot Assessment3 artifact1.png" width="500" height="500">
+<img src="images/Screenshot Assessment3 artifact3.png" width="500" height="500">
 
 ---
 ## Link
@@ -36,6 +36,22 @@ This Services Australia report explains how automation and artificial intelligen
 ## Justification on the Artefact
 I chose this artefact because it helped me understand the benefits and risks of automated decision-making in government. Before reading it, I mainly thought automation was about reducing workloads. Now I realise it can also improve people's access to services. This connects with Act Utilitarianism because technology should benefit society while minimising harm. As a future ICT professional, I believe human oversight is important.
 
+# Artefact 3: Human Rights and Automated Decision-Making in Government
+## Screenshot
+
+<img src="images/Screenshot Assessment3 artefact3.png" width="500" height="500">
+
+---
+## Link
+https://humanrights.gov.au/__data/assets/file/0023/71834/Use-of-Automated-Decision-Making-by-Government_0.pdf
+
+---
+
+## Summary of the Artefact
+This Australian Human Rights Commission report discusses how automated decision-making (ADM) can affect people's rights. It uses the Robodebt failure as an example of the harm caused by poorly managed government technology. The report recommends human rights assessments, clear explanations of automated decisions and opportunities for people to challenge unfair outcomes (Australian Human Rights Commission 2025, pp. 3–4).
+
+## Justification on the Artefact
+I chose this artefact because it helped me understand that ADM can seriously affect people's lives when mistakes happen. Before reading it, I mainly focused on how automation improves efficiency. Now I realise that protecting human rights is equally important. This connects with Kantian ethics because everyone deserves fairness, dignity and respect. As a future ICT professional, I believe automated systems should always be accountable and allow human review.
 
 
 
@@ -46,6 +62,9 @@ I chose this artefact because it helped me understand the benefits and risks of 
 Attorney-General's Department 2025, Automated decision-making reform: public consultation summary, Australian Government, viewed 13 October 2026, .
 
 Services Australia 2025, Automation and artificial intelligence strategy 2025–27, Australian Government, viewed 13 October 2026, .
+
+Australian Human Rights Commission 2025, Use of automated decision-making by government, submission to the Attorney-General's Department, 15 January, viewed 13 October 2026, .
+
 
 
 
