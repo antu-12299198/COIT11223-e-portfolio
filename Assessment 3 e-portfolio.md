@@ -53,27 +53,11 @@ This Australian Human Rights Commission report discusses how automated decision-
 ## Justification on the Artefact
 I chose this artefact because it helped me understand that ADM can seriously affect people's lives when mistakes happen. Before reading it, I mainly focused on how automation improves efficiency. Now I realise that protecting human rights is equally important. This connects with Kantian ethics because everyone deserves fairness, dignity and respect. As a future ICT professional, I believe automated systems should always be accountable and allow human review.
 
-# Artefact 4: Robodebt Victims to Receive Further $475 Million in Compensation
+
+# Artefact 4: Australia's Government Asked to Back Away from Heavy-Handed AI Regulation 
 ## Screenshot
 
 <img src="images/Screenshot Assessment3 artifact4.png" width="500" height="500">
-
----
-## Link
-https://www.youtube.com/watch?v=BKPQ1iZgAL8
-
----
-
-## Summary of the Artefact
-This ABC News video reports that Robodebt victims will receive a further $475 million in compensation. The Robodebt scheme used automated processes to calculate alleged welfare debts, resulting in incorrect debt claims and serious consequences for many Australians. The video highlights the financial impact of the scheme and the government's responsibility to address the harm caused (ABC News 2025).
-
-## Justification on the Artefact
-I chose this video because it shows how automated decision-making can negatively affect people's lives. Before learning about Robodebt, I mainly thought government automation improved efficiency. Now I understand that incorrect automated decisions can cause financial and emotional harm. This connects with Kantian ethics because people deserve dignity and fair treatment. As a future ICT professional, I believe automated systems must be properly tested and monitored.
-
-# Artefact 5: Australia's Government Asked to Back Away from Heavy-Handed AI Regulation 
-## Screenshot
-
-<img src="images/Screenshot Assessment3 artifact5.png" width="500" height="500">
 
 ---
 ## Link
@@ -86,6 +70,21 @@ This ABC News video discusses concerns about AI regulation in Australia. Former 
 
 ## Justification on the Artefact
 I chose this video because it helped me understand why government oversight is important when AI influences decisions. Before watching it, I thought technology companies could manage most risks themselves. Now I realise that public protection also requires clear rules and accountability. This connects with Rule Utilitarianism because consistent regulations can help protect society. As a future ICT professional, I believe fairness and safety should come before efficiency.
+
+# Artefact 6: 
+## Screenshot
+
+<img src="images/Screenshot Assessment3 artifact6.png" width="500" height="500">
+
+---
+## Link
+
+
+---
+
+## Summary of the Artefact
+
+## Justification on the Artefact
 
 
 
