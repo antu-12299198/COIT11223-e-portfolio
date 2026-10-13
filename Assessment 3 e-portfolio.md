@@ -106,18 +106,23 @@ I chose this artefact because it helped me understand that automated decision-ma
 
 
 ## CQU Harvard References
-Attorney-General's Department 2025, Automated decision-making reform: public consultation summary, Australian Government, viewed 13 October 2026, .
+Attorney-General's Department 2025, Automated decision-making reform: public consultation summary, Australian Government, viewed 13 October 2026,
+https://consultations.ag.gov.au/integrity/adm/user_uploads/automated-decision-making_summary-of-the-public-consultation-process.pdf
 
-Services Australia 2025, Automation and artificial intelligence strategy 2025–27, Australian Government, viewed 13 October 2026, .
+Aiken, K 2025, 'Australia's government asked to back away from heavy-handed AI regulation', The Business, ABC News, 6 August, video, viewed 13 October 2026,
+https://www.abc.net.au/news/programs/the-business/2025-08-06/australias-government-asked-to-back-away-from/105621766
 
-Australian Human Rights Commission 2025, Use of automated decision-making by government, submission to the Attorney-General's Department, 15 January, viewed 13 October 2026, .
+Australian Human Rights Commission 2025, Use of automated decision-making by government, submission to the Attorney-General's Department, 15 January, viewed 13 October 2026,
+https://humanrights.gov.au/__data/assets/file/0023/71834/Use-of-Automated-Decision-Making-by-Government_0.pdf
 
-Aiken, K 2025, 'Australia's government asked to back away from heavy-handed AI regulation', The Business, ABC News, 6 August, video, viewed 13 October 2026, .
+Government Digital Service 2025, Algorithmic transparency recording standard: guidance for public sector bodies, UK Government, viewed 13 October 2026,
+https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
 
-Government Digital Service 2025, Algorithmic transparency recording standard: guidance for public sector bodies, UK Government, viewed 13 October 2026, .
+Netherlands Court of Audit 2025, 'Privacyproblemen bij algoritmes Dienst Toeslagen en Belastingdienst' [Privacy problems with algorithms in Dutch tax and benefits services], Netherlands Court of Audit, 21 May, viewed 13 October 2026,
+https://www.rekenkamer.nl/actueel/nieuws/2025/05/21/privacyproblemen-bij-algoritmes-dienst-toeslagen-en-belastingdienst
 
-Netherlands Court of Audit 2025, Privacyproblemen bij algoritmes Dienst Toeslagen en Belastingdienst [Privacy problems with algorithms in Dutch tax and benefits services], Netherlands Court of Audit, 21 May, viewed 13 October 2026, .
-
+Services Australia 2025, Automation and artificial intelligence strategy 2025–27, Australian Government, viewed 13 October 2026,
+https://www.servicesaustralia.gov.au/sites/default/files/2025-05/automation-and-ai-strategy-2025-27.pdf
 
 ## CQU Harvard References for Question 1 video 
 Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 13 October 2026, 
