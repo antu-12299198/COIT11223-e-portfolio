@@ -1,5 +1,5 @@
 # Assessment 3 Question 2 e-portfolio – Automated Decision Making (ADM)
-A collection of artefacts that demonstrate what I have learnt about Automated Decision Making (ADM)
+In this e-portfolio, I have selected six artefacts from Australia and other countries to show what I have learned about Automated Decision Making (ADM). I will also connect these examples with ethical theories and my responsibilities as a future ICT professional.
 
 ---
 # Artefact 1: Automated Decision-Making Reform in Australian Government
