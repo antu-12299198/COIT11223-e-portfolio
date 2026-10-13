@@ -88,6 +88,22 @@ This UK Government guidance explains how government organisations should be open
 ## Justification on the Artefact
 I chose this artefact because it helped me understand why transparency is important in automated decision-making. I learned that even when an automated system works correctly, people should still know how decisions are made. This connects with Kantian ethics because everyone deserves honesty, fairness and respect. As a future ICT professional, I believe government systems should be clearly explained so people can trust them and question decisions when necessary.
 
+# Artefact 6: Automated Decision-Making and Privacy in the Netherlands
+## Screenshot
+
+<img src="images/Screenshot Assessment3 artifact6.png" width="500" height="500">
+
+---
+## Link
+https://www.rekenkamer.nl/actueel/nieuws/2025/05/21/privacyproblemen-bij-algoritmes-dienst-toeslagen-en-belastingdienst
+---
+
+## Summary of the Artefact
+This report from the Netherlands Court of Audit discusses privacy problems with algorithms used by Dutch tax and benefits agencies. One automated system was designed to identify parents who might need extra help with childcare benefit repayments. However, the investigation found that privacy risks were not properly managed. This shows that even automated systems created to help people can raise concerns about personal information and accountability (Netherlands Court of Audit 2025).
+
+## Justification on the Artefact
+I chose this artefact because it helped me understand that automated decision-making can have both benefits and risks. Before reading it, I mainly thought that systems designed to help people were generally safe. Now I realise that privacy also needs attention. This connects with Rule Utilitarianism because government agencies should follow rules that protect everyone. As a future ICT professional, I believe privacy, fairness and accountability are important when developing automated systems.
+
 
 ## CQU Harvard References
 Attorney-General's Department 2025, Automated decision-making reform: public consultation summary, Australian Government, viewed 13 October 2026, .
@@ -100,7 +116,7 @@ Aiken, K 2025, 'Australia's government asked to back away from heavy-handed AI r
 
 Government Digital Service 2025, Algorithmic transparency recording standard: guidance for public sector bodies, UK Government, viewed 13 October 2026, .
 
-
+Netherlands Court of Audit 2025, Privacyproblemen bij algoritmes Dienst Toeslagen en Belastingdienst [Privacy problems with algorithms in Dutch tax and benefits services], Netherlands Court of Audit, 21 May, viewed 13 October 2026, .
 
 
 ## CQU Harvard References for video 
