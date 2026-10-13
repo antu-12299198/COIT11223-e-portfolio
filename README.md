@@ -10,3 +10,6 @@
   2. [Week 4: e-portfolio 2 - Ethical Theory](./Week4.md)
   3. [Week 7: e-portfolio 3 – Intellectual Property](./Week7.md)
   4. [Week 9: e-portfolio 4 – Censorship](./Week9.md)  
+
+## ASSESSMENT 3 
+
