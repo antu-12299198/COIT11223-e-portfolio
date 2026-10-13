@@ -1,4 +1,4 @@
-# Assessment 3 e-portfolio – Automated Decision Making (ADM)
+# Assessment 3 Question 2 e-portfolio – Automated Decision Making (ADM)
 A collection of artefacts that demonstrate what I have learnt about Automated Decision Making (ADM)
 
 ---
@@ -119,7 +119,7 @@ Government Digital Service 2025, Algorithmic transparency recording standard: gu
 Netherlands Court of Audit 2025, Privacyproblemen bij algoritmes Dienst Toeslagen en Belastingdienst [Privacy problems with algorithms in Dutch tax and benefits services], Netherlands Court of Audit, 21 May, viewed 13 October 2026, .
 
 
-## CQU Harvard References for video 
+## CQU Harvard References for Question 1 video 
 Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 13 October 2026, 
 
 Quinn, MJ 2020, *Ethics for the Information Age*, 8th edn, Pearson, United States.
